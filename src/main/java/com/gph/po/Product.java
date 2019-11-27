@@ -4,6 +4,9 @@ import lombok.Data;
 
 
 @Data
+/**
+ * 这是实体类1231132
+ */
 public class Product {
     private int productId;
 
